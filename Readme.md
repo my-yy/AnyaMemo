@@ -1,7 +1,11 @@
 # AnyaMemo
 一款用于复习文档的软件，特点是能够为文档生成”稳定的链接“，即使文档改名或移动位置，依旧可以实现对文档的追踪。
 
+[下载地址](https://huacishu.com/app/AnyaMemo/)
+
 [软件说明](https://www.huacishu.com/2022/08/21/anya_memo/)
+
+
 
 
 ## 技术细节
